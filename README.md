@@ -1,1 +1,1 @@
-# qiskitclassicalgates
+# Qiskit Classical Gates
